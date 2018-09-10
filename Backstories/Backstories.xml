@@ -7,7 +7,7 @@
     <!-- EN: abandoned -->
     <titleShort>Zurückgelassen</titleShort>
     <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy genetic parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-    <desc>[PAWN_nameDef] war ein schlagfertiges, lustiges Kind. Eines Tages lief [PAWN_pronoun] von [PAWN_possessive]en reichen genetischen Eltern weg und verlief sich schließlich in einem vermeintlich unbenutzten Erzwarenlager. Wegen der Klontechnologie waren [PAWN_possessive]e Eltern der Meinung, dass es sich mehr lohnt, ein besseres Kind klonen zu lassen, anstatt nach [PAWN_nameDef] zu suchen.</desc>
+    <desc>[PAWN_nameDef] war ein schlagfertiges, lustiges Kind. Eines Tages lief [PAWN_pronoun] von [PAWN_possessive]en reichen genetischen Eltern weg und verlief sich schließlich in einem vermeintlich unbenutzten Erzlagerhaus. Wegen der Klontechnologie waren [PAWN_possessive]e Eltern der Meinung, dass es sich mehr lohnt, ein besseres Kind klonen zu lassen, anstatt nach [PAWN_nameDef] zu suchen.</desc>
   </AbandonedChild47>
   
   <AbandonedChild60>
@@ -25,7 +25,7 @@
     <!-- EN: orphan -->
     <titleShort>Waise</titleShort>
     <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-    <desc>Nach der Geburt ausgesetzt begann [PAWN_nameDef] [PAWN_possessive] Leben in einem Kinderheim\n\nAls Schuft und Halunke wurde [PAWN_pronoun] ein berüchtigter Unruhestifter.</desc>
+    <desc>Nach der Geburt ausgesetzt begann [PAWN_nameDef] [PAWN_possessive] Leben in einem Waisenhaus\n\nAls Schuft und Halunke wurde [PAWN_pronoun] ein berüchtigter Unruhestifter.</desc>
   </AbandonedOrphan61>
   
   <Abductee43>
